@@ -47,7 +47,7 @@ These two lines tell the compiler to include the information contained in the fi
 
 C++ programs often include a lot of code behind the scenes. We keep each part separated into different files to avoid having one massive document!
 
-## Run loop
+## IAP::run
 
 ```cpp
 void IAP::run () 
