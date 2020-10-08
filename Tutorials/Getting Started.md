@@ -38,7 +38,7 @@ Download this IAP folder (which contains all of the required materials and appli
 
 https://github.com/Sjhunt93/IAP-2019-2020/tree/windows
 
-For windows users we recomend using Microsoft's Visual Studio 2017:
+For windows users we recomend using Microsoft's Visual Studio Community 2019:
 
 https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15
 
